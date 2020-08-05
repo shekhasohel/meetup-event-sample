@@ -30,7 +30,6 @@ Icon
 # https://github.com/github/gitignore/blob/master/Global/Linux.gitignore
 *~
 !.gitignore
-package-lock.json
 #*~
  
 # KDE directory preferences
